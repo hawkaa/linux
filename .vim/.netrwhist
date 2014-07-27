@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/windows/data/Dropbox/Skole/Kompilator/ex/.git'
+let g:netrw_dirhist_2='/mnt/windows/data/tma4280'
+let g:netrw_dirhist_3='/home/hawk/tdt4205_framework/include'
+let g:netrw_dirhist_4='/etc/X11/xinit'

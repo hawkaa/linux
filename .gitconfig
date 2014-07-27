@@ -3,7 +3,5 @@
 	name = Håkon Åmdal
 [push]
 	default = simple
-[credential]
-	helper = cache --timeout=28800
 [color]
 	ui = true

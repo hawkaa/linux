@@ -4,6 +4,7 @@
 :set number
 :filetype on
 :filetype plugin on
+:set foldmethod=marker
 nnoremap <silent> <F8> :TlistToggle<CR>
 if has('gui_running')
 	:colorscheme molokai

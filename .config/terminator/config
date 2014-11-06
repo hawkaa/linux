@@ -1,0 +1,26 @@
+[global_config]
+  title_hide_sizetext = True
+  suppress_multiple_term_dialog = True
+  inactive_color_offset = 1.02
+[keybindings]
+[profiles]
+  [[default]]
+    show_titlebar=false
+    palette = "#000000:#c75646:#8eb33b:#d0b03c:#72b3cc:#c8a0d1:#218693:#b0b0b0:#5d5d5d:#e09690:#cdee69:#ffe377:#9cd9f0:#fbb1f9:#77dfd8:#f7f7f7"
+    background_image = None
+    use_system_font = False
+    foreground_color = "#f7f6fe"
+    font = Inconsolata Medium 13
+    background_color = "#2d2d2d"
+  [[SMYCK]]
+    background_image = None
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]

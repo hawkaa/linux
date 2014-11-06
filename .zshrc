@@ -61,7 +61,7 @@ export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/android-sdk/build-tool
 if [[ -n $SSH_CONNECTION ]]; then
    export EDITOR='vim'
 else
-   export EDITOR='gvim'
+   export EDITOR='vim'
 fi
 
 # Compilation flags

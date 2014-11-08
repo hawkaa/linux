@@ -5,8 +5,8 @@
 :filetype on
 :filetype plugin on
 :set foldmethod=marker
-:set tabstop=4
-:set shiftwidth=4
+:set tabstop=2
+:set shiftwidth=2
 :set expandtab
 nnoremap <silent> <F8> :TlistToggle<CR>
 if has('gui_running')

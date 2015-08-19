@@ -15,3 +15,4 @@ if has('gui_running')
 	:set guifont=Envy\ Code\ R\ 11
 endif
 
+autocmd FileType c setlocal shiftwidth=4 tabstop=4

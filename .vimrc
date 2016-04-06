@@ -16,3 +16,4 @@ if has('gui_running')
 endif
 
 autocmd FileType c setlocal shiftwidth=4 tabstop=4
+execute pathogen#infect()

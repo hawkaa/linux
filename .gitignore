@@ -1,4 +1,10 @@
 *
+!.dircolors
+!.gitignore
+!.gitmodules
+!.vimrc
+!.zprofile
+!.zshrc
 !.vim/
 !.vim/*/
 !.vim/*/*/
